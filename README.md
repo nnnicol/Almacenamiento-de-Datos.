@@ -15,8 +15,6 @@ Segunda imagen donde muestra la configuracion del diseño por medio del codigo
 
 Tercer diseño para crear al usuario 
 
-![image](https://github.com/nnnicol/Almacenamiento-de-Datos./assets/133244392/9c826af6-6c38-4735-ba79-c4af2138a87a)
-
 ![image](https://github.com/nnnicol/Almacenamiento-de-Datos./assets/133244392/50816b87-ba3d-453d-9296-be6770bdd86b)
 
 Resultado Final se procede a almacenar en la base de datos del celular 
